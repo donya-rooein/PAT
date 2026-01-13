@@ -1,8 +1,6 @@
 # PATS: Personality-Aware Teaching Strategies with Large Language Model Tutors
 This repository contains code, analysis artifacts, and a demo for **PATS**, a research project studying **personality-aware teaching strategies** with Large Language Model (LLM) tutors across **two educational tasks**.
 
-> Paper (arXiv): **TBD**  
-> Project site / demo: https://donya-rooein.github.io/PATS/ (see `Demo/` for code)
 
 ---
 
